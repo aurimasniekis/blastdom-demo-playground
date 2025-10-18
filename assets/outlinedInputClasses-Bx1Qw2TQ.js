@@ -1,0 +1,1 @@
+import{b as s}from"./index-C8o1iBzI.js";import{i as e}from"./inputBaseClasses-CK2hkc8G.js";import{g as i,a as n}from"./generateUtilityClasses-Ckh-AizS.js";function l(t){return n("MuiOutlinedInput",t)}const r=s({},e,i("MuiOutlinedInput",["root","notchedOutline","input"]));export{l as g,r as o};

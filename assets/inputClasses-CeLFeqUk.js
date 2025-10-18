@@ -1,0 +1,1 @@
+import{b as s}from"./index-C8o1iBzI.js";import{i}from"./inputBaseClasses-CK2hkc8G.js";import{g as e,a}from"./generateUtilityClasses-Ckh-AizS.js";function u(t){return a("MuiInput",t)}const p=s({},i,e("MuiInput",["root","underline","input"]));export{u as g,p as i};

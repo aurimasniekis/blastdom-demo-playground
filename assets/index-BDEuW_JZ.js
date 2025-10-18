@@ -1,0 +1,1 @@
+import{r as o,j as u,b as n}from"./index-C8o1iBzI.js";import{_ as l}from"./objectWithoutPropertiesLoose-Dsqj8S3w.js";const a=["value"],r=o.createContext();function i(t){let{value:e}=t,s=l(t,a);return u.jsx(r.Provider,n({value:e??!0},s))}const p=()=>{const t=o.useContext(r);return t??!1};export{i as R,p as u};

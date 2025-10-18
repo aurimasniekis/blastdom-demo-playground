@@ -1,0 +1,1 @@
+import{r as t}from"./index-C8o1iBzI.js";const e=t.createContext({});function r(){return t.useContext(e)}const n=t.createContext({});function s(){return t.useContext(n)}export{e as S,n as a,r as b,s as u};
